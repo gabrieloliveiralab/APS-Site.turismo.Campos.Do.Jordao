@@ -1,13 +1,16 @@
 # Turismo em Campos do Jordão
 
-> Status do projeto: Finalizado (Serve como laboratorio de teste)
+> Status do projeto: Finalizado (Serve como laboratório de teste)
 
--Primeiro Projeto desenvolvido no curso-<br>
+<h3>Primeiro Projeto desenvolvido no curso de Ciências da Computação - UNIP</h3><br>
 
-A proposta desse site desenvolvido como projeto de final de semestre, era mostrar os pontos turísticos da cidades de Campos do Jordão.
-Foram usados ferramentas como HTML, CSS e JavaScript.
-O site possui um layout simples, mas agradável. E de fácil navegação para o usuario, possuindo também responsividade.
-> <h1>Sistema de cadastro de jogos</h1>
+A proposta desse site era mostrar os pontos turísticos da cidades de Campos do Jordão. Ele foi desenvolvido como projeto de final de semestre.<br>
+
+Foram usados ferramentas como HTML, CSS e JavaScript.<br>
+
+O site possui um layout simples, mas agradável. É de fácil navegação para o usuário, e também possui responsividade permitindo que o site se adapte a diferentes tamanhos.<br>
+
+
 
 
 
