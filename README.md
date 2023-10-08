@@ -4,3 +4,15 @@
 A proposta desse site desenvolvido como projeto de final de semestre, era mostrar os pontos turísticos da cidades de Campos do Jordão.
 Foram usados ferramentas como HTML, CSS e JavaScript.
 O site possui um layout simples, mas agradável. E de fácil navegação para o usuario, possuindo também responsividade.
+> <h1>Sistema de cadastro de jogos</h1>
+
+# Sistema de cadastro de jogos 
+
+> Status do projeto: Em desenvolvimento
+
+Para rodar esse projeot na sua maquina, por favor digite:
+```
+node app.js
+```
+
+ :) -/
