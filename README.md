@@ -2,7 +2,7 @@
 
 > Status do projeto: Finalizado (Serve como laboratório de teste)
 
-<h3>Primeiro Projeto desenvolvido no curso de Ciências da Computação - UNIP</h3><br>
+<h3>Primeiro projeto desenvolvido no curso de Ciências da Computação - UNIP</h3><br>
 
 A proposta desse site era mostrar os pontos turísticos da cidades de Campos do Jordão. Ele foi desenvolvido como projeto de final de semestre.<br>
 
