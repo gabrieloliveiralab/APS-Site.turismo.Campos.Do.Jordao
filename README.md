@@ -10,7 +10,10 @@ Foram usados ferramentas como HTML, CSS e JavaScript.<br>
 
 O site possui um layout simples, mas agradável. É de fácil navegação para o usuário, e também possui responsividade permitindo que o site se adapte a diferentes tamanhos.<br>
 
+<center>
+  <h3>Imagem da Home do site</h3><br>
+</center>
 
-
+<img src="img/imagem-site.jpeg">
 
 
